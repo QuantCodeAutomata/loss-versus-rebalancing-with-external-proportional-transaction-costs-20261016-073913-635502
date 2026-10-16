@@ -1,0 +1,9 @@
+,0
+k_gmm,1.0
+tau_pool,0.3319973279893119
+gamma,0.6666666666666667
+pi_in_band_pct,100.0
+max_pi_violation,0.0
+max_abs_LVR_tc,0.0
+mean_abs_LVR_tc,0.0
+max_rel_LVR_tc,0.0

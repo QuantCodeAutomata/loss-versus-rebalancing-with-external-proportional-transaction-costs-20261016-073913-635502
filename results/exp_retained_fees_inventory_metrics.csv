@@ -1,0 +1,6 @@
+,0
+max_schedule_error,1.4210854715202004e-14
+max_abs_LVR_tc,0.1449091274008083
+mean_abs_LVR_tc,0.07208965405819207
+max_rel_LVR_tc,0.0006972744965090514
+K_buffer_monotone,True
